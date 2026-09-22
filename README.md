@@ -1,6 +1,7 @@
 # Discord Account generator
 
 KEY: PREMIUM-9999-8888-7777
+
 <img width="640" height="239" alt="image" src="https://github.com/user-attachments/assets/258c8cb3-22fb-4a12-82e8-f1f6873cc7f5" />
 
 --------------------------------------------------------------------------------------------------------------------------------------
